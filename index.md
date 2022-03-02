@@ -1,31 +1,34 @@
-## Portfolio
+## Projects I've Built!
 
 ---
 
-### Category Name 1 
+### Highlights 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Spotlight // HackHarvard 2021](https://devpost.com/software/spotlight-6f8ct0)
+<img src="images/spotlight.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[UV Disinfection Robot](https://www.hackster.io/kevin-tran/wells-a-uv-c-disinfection-robot-for-indoor-spaces-946925)
+<img src="images/wells.jpeg?raw=true"/>
+
+---
+[Watney Mark 3 // Northeastern Mars Rover Team]()
+<img src="images/watney.jpg?raw=true"/>
+
+---
+[FIRST Robotics Team 7461](https://sushisquad.org/)
+<img src="images/unagin.jpg?raw=true"/>
+
+---
+### Organizations I'm a part of
+
+- [IDEA: Northeastern University's Venture Accelerator](https://www.northeastern.edu/idea/)
+- [Northeastern University Mars Rover Team](https://www.northeasternrover.com/)
+- [Northeastern University RiVER Lab](https://robotics.northeastern.edu/)
+- [College Ventures Network](https://www.collegeventuresnetwork.com/)
 
 ---
 
-### Category Name 2
-
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
-
----
 
 
 
