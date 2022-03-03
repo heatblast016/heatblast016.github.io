@@ -41,9 +41,9 @@ I founded and led a team for 3 years to design, build, program and iterate 150lb
 #### Antares // FRC 2019
 <img src="images/antares.jpg?raw=true">
 #### Stogie // CAD Challenge: Picking up cigarettes from streets
-<img src="images/stogie.jpg?raw=true">
+<img src="images/Stogie2.png?raw=true">
 #### Quake // CAD Challenge: Launching footballs and lifting weights
-<img src="images/quake.jpg?raw=true">
+<img src="images/quake.png?raw=true">
 #### Differential Elevator // CAD Challenge: Knocking Yoga Balls off of Trusses
 Uses two motors and cable rigging to power both linear motion and end effector rotation with both motors
 <img src="images/diffy.jpg?raw=true">
