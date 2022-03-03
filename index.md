@@ -5,6 +5,7 @@
 ### Highlights 
 
 [Spotlight // HackHarvard 2021](https://devpost.com/software/spotlight-6f8ct0)
+<br><br>
 Software Development
 <img src="images/spotlight.png?raw=true"/>
 
