@@ -23,7 +23,7 @@ Electrical Engineering
 
 ### Other Projects!
 
-[PARIS -- Northeastern University's Submission for the DOE E-Robot Challenge] (https://coe.northeastern.edu/news/nu-team-paris-wins-in-phase-1-of-american-made-e-robot-prize/)
+[PARIS -- Northeastern University's Submission for the DOE E-Robot Challenge](https://coe.northeastern.edu/news/nu-team-paris-wins-in-phase-1-of-american-made-e-robot-prize/)
 <br>
 Miscellaneous tasks (mostly software and electrical oriented)
 <img src="images/paris.jpg?raw=true"/>
