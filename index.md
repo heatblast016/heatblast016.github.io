@@ -31,20 +31,20 @@ I'm part of a team to build a robot to seal insulation in old buildings and prev
 ---
 [FIRST Robotics Team 7461](https://sushisquad.org/)
 I founded and led a team for 3 years to design, build, program and iterate 150lb robots to complete a series of challenges in 6 weeks at the beginning of each year. These challenges ranged from placing circular disks precisely on walls to launching balls into a goal 8ft high from 20 feet away. I led the team to the world championships our rookie year, winning over 6 awards throughout my time as Captain. I also worked on a few miscellaneous CAD projects for various challenges (ranging from launching footballs to picking up cigarettes off streets)
-#### Unagi // FRC 2020-21 (Launching dodgeballs)
+**Unagi // FRC 2020-21 (Launching dodgeballs)**
 <img src="images/unagin.jpg?raw=true"/>
 <img src="images/unagi2.jpg?raw=true">
-#### Isopod // FRC 2020-21
+**Isopod // FRC 2020-21**
 <img src="images/iso2.jpg?raw=true">
-#### Doggo // FRC 2019 (Placing disks on walls and placing kickballs in slots)
+**Doggo // FRC 2019 (Placing disks on walls and placing kickballs in slots)
 <img src="images/doggo.jpg?raw=true">
-#### Antares // FRC 2019
+**Antares // FRC 2019
 <img src="images/antares.jpg?raw=true">
-#### Stogie // CAD Challenge: Picking up cigarettes from streets
+**Stogie // CAD Challenge: Picking up cigarettes from streets
 <img src="images/Stogie2.png?raw=true">
-#### Quake // CAD Challenge: Launching footballs and lifting weights
+**Quake // CAD Challenge: Launching footballs and lifting weights
 <img src="images/quake.png?raw=true">
-#### Differential Elevator // CAD Challenge: Knocking Yoga Balls off of Trusses
+**Differential Elevator // CAD Challenge: Knocking Yoga Balls off of Trusses**
 Uses two motors and cable rigging to power both linear motion and end effector rotation with both motors
 <img src="images/diffy.jpg?raw=true">
 
