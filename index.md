@@ -29,8 +29,9 @@ I'm part of a team to build a robot to seal insulation in old buildings and prev
 <img src="images/paris.jpg?raw=true"/>
 
 ---
-[FIRST Robotics Team 7461](https://sushisquad.org/)
-I founded and led a team for 3 years to design, build, program and iterate 150lb robots to complete a series of challenges in 6 weeks at the beginning of each year. These challenges ranged from placing circular disks precisely on walls to launching balls into a goal 8ft high from 20 feet away. I led the team to the world championships our rookie year, winning over 6 awards throughout my time as Captain. I also worked on a few miscellaneous CAD projects for various challenges (ranging from launching footballs to picking up cigarettes off streets)
+### FIRST Robotics
+I founded and led a team in high school for 3 years to design, build, program and iterate 150lb robots to complete a series of challenges in 6 weeks at the beginning of each year. These challenges ranged from placing circular disks precisely on walls to launching balls into a goal 8ft high from 20 feet away. I led the team to the world championships our rookie year, winning over 6 awards throughout my time as Captain. I also worked on a few miscellaneous CAD projects for various challenges. Here are some of the robots I designed & built!
+<br>
 <br>
 **Unagi // FRC 2020-21 (Launching dodgeballs)**
 <img src="images/unagin.jpg?raw=true"/>
