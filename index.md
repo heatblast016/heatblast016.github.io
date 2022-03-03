@@ -5,15 +5,25 @@
 ### Highlights 
 
 [Spotlight // HackHarvard 2021](https://devpost.com/software/spotlight-6f8ct0)
+Software Development
 <img src="images/spotlight.png?raw=true"/>
 
 ---
 [UV Disinfection Robot](https://www.hackster.io/kevin-tran/wells-a-uv-c-disinfection-robot-for-indoor-spaces-946925)
+Software Development and CAD Design
 <img src="images/wells.jpeg?raw=true"/>
 
 ---
 [Watney Mark 3 // Northeastern Mars Rover Team]()
+Electrical Engineering
 <img src="images/watney.jpg?raw=true"/>
+
+### Other Projects!
+
+[PARIS -- Northeastern University's Submission for the DOE E-Robot Challenge] (https://coe.northeastern.edu/news/nu-team-paris-wins-in-phase-1-of-american-made-e-robot-prize/)
+Miscellaneous tasks (mostly software and electrical oriented)
+<img src="images/paris.jpg?raw=true"/>
+
 
 ---
 [FIRST Robotics Team 7461](https://sushisquad.org/)
