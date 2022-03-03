@@ -35,14 +35,14 @@ I founded and led a team for 3 years to design, build, program and iterate 150lb
 <img src="images/unagin.jpg?raw=true"/>
 <img src="images/unagi2.jpg?raw=true">
 **Isopod // FRC 2020-21**
-<img src="images/iso2.jpg?raw=true">
-**Doggo // FRC 2019 (Placing disks on walls and placing kickballs in slots)
+<img src="images/iso2.png?raw=true">
+**Doggo // FRC 2019 (Placing disks on walls and placing kickballs in slots)**
 <img src="images/doggo.jpg?raw=true">
-**Antares // FRC 2019
+**Antares // FRC 2019**
 <img src="images/antares.jpg?raw=true">
-**Stogie // CAD Challenge: Picking up cigarettes from streets
+**Stogie // CAD Challenge: Picking up cigarettes from streets**
 <img src="images/Stogie2.png?raw=true">
-**Quake // CAD Challenge: Launching footballs and lifting weights
+**Quake // CAD Challenge: Launching footballs and lifting weights**
 <img src="images/quake.png?raw=true">
 **Differential Elevator // CAD Challenge: Knocking Yoga Balls off of Trusses**
 Uses two motors and cable rigging to power both linear motion and end effector rotation with both motors
