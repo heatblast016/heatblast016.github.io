@@ -24,7 +24,7 @@ I helped build electrical systems for a rover competing in the University Rover 
 [6Kin -- Inverse Kinematics for a 6-DOF Arm](https://github.com/heatblast016/6kin)
 <br>
 I built an analytical inverse kinematics solver for a 6-DOF robotic arm!
-<img src=https://user-images.githubusercontent.com/15475418/165386617-e092e9d8-dbd7-4365-a239-47875f53e432.png>
+<img src=images/6kin.png?raw=true>
 
 
 ### Other Projects!
