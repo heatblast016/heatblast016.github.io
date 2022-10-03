@@ -4,6 +4,11 @@
 
 ### Highlights 
 
+[CarNanny](https://github.com/cttdev/hackMIT2022)
+<br>
+Created an end-to-end system to detect babies/pets left in vehicles, and send text alerts to owners if vehicle conditions exceed safe thresholds of CO2 or temperature. Used a Jetson Nano, webcam, and NDIR CO2/Temperature sensor.
+<img src="images/carnanny.jpg?raw=true"/>
+
 [Spotlight](https://devpost.com/software/spotlight-6f8ct0)
 <br>
 I built a system to track people in 3d space and adjust lighting in a room to save energy. We ended up winning 3rd place at HackHarvard 2021 
