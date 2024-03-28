@@ -4,9 +4,10 @@
 
 ### Highlights 
 ### BarkPak
-<br>
+
 We built a backpack for dogs to map out search and rescue environments, and put a lidar/camera/other sensors on it. Aka we strapped a lidar to a cute dog!
 <img src="images/barkpak.jpg?raw=true"/>
+<br>
 [CarNanny](https://github.com/cttdev/hackMIT2022)
 <br>
 Created an end-to-end system to detect babies/pets left in vehicles, and send text alerts to owners if vehicle conditions exceed safe thresholds of CO2 or temperature. Used a Jetson Nano, webcam, and NDIR CO2/Temperature sensor. Won 3rd place out of 200 projects at HackMIT 2022
