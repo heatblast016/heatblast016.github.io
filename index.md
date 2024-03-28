@@ -3,7 +3,7 @@
 ---
 
 ### Highlights 
-# BarkPak
+### BarkPak
 <br>
 We built a backpack for dogs to map out search and rescue environments, and put a lidar/camera/other sensors on it. Aka we strapped a lidar to a cute dog!
 <img src="images/barkpak.jpg?raw=true"/>
