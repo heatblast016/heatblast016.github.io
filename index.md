@@ -3,7 +3,10 @@
 ---
 
 ### Highlights 
-
+BarkPak
+<br>
+We built a backpack for dogs to map out search and rescue environments, and put a lidar/camera/other sensors on it. Aka we strapped a lidar to a cute dog!
+<img src="images/barkpak.jpg?raw=true"/>
 [CarNanny](https://github.com/cttdev/hackMIT2022)
 <br>
 Created an end-to-end system to detect babies/pets left in vehicles, and send text alerts to owners if vehicle conditions exceed safe thresholds of CO2 or temperature. Used a Jetson Nano, webcam, and NDIR CO2/Temperature sensor. Won 3rd place out of 200 projects at HackMIT 2022
@@ -38,7 +41,6 @@ I built an analytical inverse kinematics solver for a 6-DOF robotic arm!
 <br>
 I'm part of a team to build a robot to seal insulation in old buildings and prevent heat leakage. I worked on miscellaneous tasks (mostly software and electrical oriented)
 <img src="images/paris.jpg?raw=true"/>
-
 ---
 ### FIRST Robotics
 I founded and led a team in high school for 3 years to design, build, program and iterate 150lb robots to complete a series of challenges in 6 weeks at the beginning of each year. These challenges ranged from placing circular disks precisely on walls to launching balls into a goal 8ft high from 20 feet away. I led the team to the world championships our rookie year, winning over 6 awards throughout my time as Captain. I also worked on a few miscellaneous CAD projects for various challenges. Here are some of the robots I designed & built!
